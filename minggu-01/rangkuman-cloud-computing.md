@@ -41,5 +41,5 @@ Dunia cloud computing merupakan dunia baru karena tidak semua orang mengetahui t
 Google Drive adalah layanan penyimpanan Online yang dimiliki Google. Google Drive diluncurkan pada tanggal 24 April 2012. Sebenarnya layanan ini merupakan pengembangan dari Google Docs. Google Drive memberikan kapasitas penyimpanan sebesar 5 GB kepada setiap penggunanya. Kapasitas tersebut dapat ditambahkan dengan melakukan pembayaran atau pembelian Storage. Penyimpanan file di Google Drive dapat memudahkan pemilik file dapat mengakses file tersebut kapanpun dan dimanapun dengan menggunakan komputer desktop, laptop, komputer tablet ataupun smartphone. File tersebut juga dapat dengan mudah dibagikan dengan orang lain untuk berbagi pakai ataupun melakukan kolaborasi dalam pengeditan.
 
 <h5>Referensi :</h5>
-Wikipedia https://en.wikipedia.org/wiki/Cloud_computing .
 
+[Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
