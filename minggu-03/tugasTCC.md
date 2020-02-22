@@ -2,20 +2,20 @@
 
 
 1. Melakukan cloning aplikasi dummy dari heroku.
-![appdummy](/img/appDummyByHeroku.jpg)
+![appdummy](/minggu-03/appDummyByHeroku.jpg)
 
 2. Lalu menggunakan git-bash untuk melakukan deploy ke heroku, dan membuka aplikasi yang sudah dideploy.
-![openApp](/img/hasilDeploy.jpg)
+![openApp](/minggu-03/hasilDeploy.jpg)
 
 3. Ketika melakukan perintah "heroku create" heroku akan otomatis membuatkan repo aplikasi di akun kita dengan nama acak serta remote untuk mengelolanya melalui bash local. Jika ingin melakukan perubahan nama aplikasi dapat melalui setting pada website heroku, akan tetapi ketika melakukan perubahan setelah selesai harus melakukan perubahan nama remote yang ada menjadi nama aplikasi yang baru.
 
 4. Perlu diingat untuk melakukan pengaturan scale menjadi 1 melalui gitbash (dynos untuk versi free adalah 1), jika tidak aplikasi tidak akan bisa dibuka melalui web ataupun bash.
 
 5. Melalui bash local kita dapat menggunakan bash khusus untuk aplikasi yang sudah dideploy ke heroku(salah satu fitur heroku).
-![bashApp](/img/bashAppheroku.jpg)
+![bashApp](/minggu-03/bashAppheroku.jpg)
 
 6. Lalu melakukan modifikasi terhadap file index, melakukan deploy ke heroku, dan menampilkannya.
-![pushLocalChange](/img/hasiltambahcomposer.jpg)
+![pushLocalChange](/minggu-03/hasiltambahcomposer.jpg)
 
 7. Untuk fitur add-ons diabaikan karena untuk mengaksesnya kita perlu untuk memverifikasi akun(langsung masuk ke payment method >_<).
 
