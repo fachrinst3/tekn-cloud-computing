@@ -2,9 +2,9 @@
 
 <h3> Proses :</h3>
 
-1. Masuk kedalam virtual box dan start machine Ubuntu 18.04
+1. Masuk kedalam virtual box dan start machine Ubuntu 18.04.
 
-![virtualbox](/minggu-04/Virtual)
+![virtualbox](/minggu-04/VirtualUbuntu.jpg)
 
 2. Melakukan instalasi git di dalam virtual machine dengan menggunakan perintah "sudo apt install git." pada terminal, karena kita akan melakukan cloning terhadap repo devstack. Repo devstack berisi skrip yang menginstal OpenStack dan templat untuk file konfigurasi.
 
