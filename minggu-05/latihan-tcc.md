@@ -1,8 +1,8 @@
-<h1> Laporan proses penginstalan Apache OFBiz </h1>
+<h1> Laporan proses penginstalan Apache OFBiz</h1>
 
 1. Pertama melakukan download terhadap file mirror dari OFBiz melalui situs resminya.
 
-2. Setelah itu membuka cmd, dan mengarahkannya kedalam direktori file OFbiz berada.
+2. Setelah itu membuka cmd, dan mengarahkannya kedalam direktori file OFbiz berada.<br>
 
 ![direktori](/minggu-05/-dir-ofbiz.jpg)
 
