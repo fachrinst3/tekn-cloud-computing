@@ -4,7 +4,7 @@
 
 2. Setelah itu membuka cmd, dan mengarahkannya kedalam direktori file OFbiz berada.<br>
 
-![direktori](/minggu-05/-dir-ofbiz.jpg)
+![direktori](/minggu-05/dir-ofbiz.jpg)
 
 3. Lalu menjalankan perintah "gradlew loadDefault ofbiz".  untuk melakukan build terhadap apache OFBiz, pada saat didalm proses build saya mengalami stuck loading di 78% sampai waktu praktikum habis, dan tidak dapat menjalankan OFBiz.
 
