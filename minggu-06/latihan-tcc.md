@@ -36,7 +36,11 @@
 
 5. Setelah mendapatkan URI string kita sudah bisa melakukan proses coding dengan Go untuk melakukan koneksi, dan membaca data dari database yang ada di MongoDB. [Program Go MongoDB](/minggu-06/featuringmongo.go)
 
-6. Hasil dari run program Go :
+6. Sebelum melakukan run kita akan mengisikan data didalam collection.
+
+![isicollection](/minggu-06/datadiatlas.jpg)
+
+7. Hasil dari run program Go :
 
 ![hasilMongo](/minggu-06/mongocomplete.jpg)</br>
 
