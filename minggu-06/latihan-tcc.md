@@ -1,6 +1,6 @@
 <h1> Latihan TCC Minggu-06 </h1>
 
-<h2>A. Membuat contoh program Go untuk koneksi dan membaca data dari MySQL : </h2>
+<h3>A. Membuat contoh program Go untuk koneksi dan membaca data dari MySQL </h3>
 
 1. Sebelum melakukan pembuatan program kita diwajibkan untuk menginstall Mysql Community Edition, compiler Go, dan Mysql driver untuk Go.
 
