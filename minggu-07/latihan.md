@@ -1,6 +1,7 @@
 <h1>Latihan Praktikum TCC Minggu-07 </h1>
 
 1. Melakukan pengecekan versi docker sesudah melakukan instalasi.
+
 ![docver](dockver.jpg)
 
 2. Melakukan run image docker hello-world
