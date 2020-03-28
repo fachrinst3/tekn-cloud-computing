@@ -1,6 +1,6 @@
 <h1> Tugas Praktikum-TCC minggu 7 (Cari image yang menarik bagi saya) </h1>
 
-1. Saya memilih image doodle (alpine), dengan tema summer(menampilkan asterix di terminal ketika dijalankan).
+1. Saya memilih image doodle (alpine), dengan tema summer(menampilkan ASCII art di terminal ketika dijalankan).
 
 2. Setelah melakukan clone terhadap image yang saya gunakan, kita langsung masuk ke direktorinya dan melakukan build terhadap dockerFilenya.
 ![builbuild](buildbuild.jpg)
